@@ -1,0 +1,18 @@
+2025-03-02 23:18:29,469 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2025-03-04 19:53:11,254 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-03-06 09:14:48,453 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-03-06 09:37:38,557 [main] INFO  org.eclipse.jetty.server.Server - jetty-12.0.15; built: 2024-11-05T19:44:57.623Z; git: 8281ae9740d4b4225e8166cc476bad237c70213a; jvm 23.0.2+7-58
+2025-03-06 09:37:38,666 [main] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@5c28e921{/wse,/wse,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@6ad9dc67{STARTED}}
+2025-03-06 09:37:38,667 [main] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2025-03-06 09:37:38,715 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@346c4331{HTTP/1.1, (http/1.1)}{0.0.0.0:65511}
+2025-03-06 09:37:38,749 [main] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@550f8bcc{STARTING}[12.0.15,sto=0] @1402412ms
+2025-03-06 09:37:39,347 [qtp503754493-671] INFO  o.e.j.e.nested.ContextHandler._wse - Warning: No org.apache.tomcat.JarScanner set in ServletContext. Falling back to default JarScanner implementation.
+2025-03-06 09:58:02,730 [Framework stop - Equinox Container: 0f6f2c64-70ad-4b78-88b4-09e335ac9d05] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@550f8bcc{STOPPING}[12.0.15,sto=0]
+2025-03-06 09:58:02,738 [Framework stop - Equinox Container: 0f6f2c64-70ad-4b78-88b4-09e335ac9d05] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@346c4331{HTTP/1.1, (http/1.1)}{0.0.0.0:0}
+2025-03-09 11:40:40,140 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-03-20 14:36:14,584 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-04-10 09:34:38,315 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-04-17 09:22:41,037 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-04-17 09:32:24,667 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-04-17 09:47:34,008 [Worker-31: Git Repository Change Scanner] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\dibas\gitLingtonStore\.git]
+2025-04-17 11:00:09,567 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
