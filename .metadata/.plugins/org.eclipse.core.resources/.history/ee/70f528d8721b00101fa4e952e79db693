@@ -145,7 +145,6 @@ form.sign-in-form {
   color: #fff;
 }
 
-
 .panels-container {
   position: absolute;
   width: 100%;
